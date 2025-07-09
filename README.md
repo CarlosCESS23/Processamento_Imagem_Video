@@ -10,7 +10,7 @@ Este projeto utiliza o Python, usando a biblioteca de visão computacional para 
 - [Estrutura do projeto](#estrutura-do-projeto)
 - [Como Começar](#como-começar)
   - [1. Instalação de Python](#1-InstalacaoPython)
-  - [2.Instalação das bibliotecas necessárias](#2-bibliotecas_necessarias)
+  - [2.Instalação das bibliotecas necessárias](#2-bibliotecas_necessárias)
 - [Clone ou baixe os arquivos](#clone-ou-baixe-os-arquivos)
 - [Objetivos do Programa](#objetivo_programa)
 - [Funcionalidade do Programa](#funcionalidade_do_programa)
