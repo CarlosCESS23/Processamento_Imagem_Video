@@ -25,7 +25,7 @@ Este projeto utiliza o Python, usando a biblioteca de visão computacional para 
   ## Pré-requisito:
 
   - Sistema Operacional: Linux, Windows e Mac
-  - Anaconda instalado[Instrução de Instalação do Anaconda](https://www.anaconda.com/download)
+  - Anaconda instalado: [Instrução de Instalação do Anaconda](https://www.anaconda.com/download)
   - Versão do Python: acima de 3.10
   - Bibliotecas:
     - OpenCV: Processamento de imagens e vídeos.
