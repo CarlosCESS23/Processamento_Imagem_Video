@@ -19,7 +19,6 @@ Este projeto utiliza o Python, usando a biblioteca de visão computacional para 
   - [3.Região de interesse (ROI)](#região-de-interesse-roi)
 - [Forma de Execução](#forma-de-execução)
 - [Guia de Orientação](#guia-de-orientação-do-uso)
-- [Referências](#referências)
 
 
   ## Pré-requisito:
