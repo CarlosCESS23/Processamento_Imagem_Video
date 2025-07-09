@@ -40,9 +40,9 @@ Este projeto utiliza o Python, usando a biblioteca de visão computacional para 
   
   ```
 
-  ## Como Começar?
+  ## Como Começar
 
-### 1. Instalação do Python
+### 1. Instalação de Python
 
 Se optou por instalar o **Anaconda**, o Python já vem íncluido, caso não queira utilizar a versão incluída, pode criar novo ambiente com a versão que você deseja, mas lembrando de instalar a versão superior à 3.10, segue o código para o novo ambiente (Opcional)
 
@@ -57,7 +57,7 @@ conda create -n Py311 python=3.11
 conda activate Py311
 ```
 
-### 2. Instalação das Bibliotecaas necessárias
+### 2. Instalação das bibliotecas necessárias
 
 Com Anaconda instalado e o ambiente já criado que é uma forma de instalar as bibliotecas de forma isolada, evitando o conflito com outros projetos, novamente com terminal aberto, execute os seguintes comandos para instalar as bibliotecas necessários:
 
@@ -78,7 +78,7 @@ git clone https://github.com/CarlosCESS23/Processamento_Imagem_Video
 
 Ou, se preferir, pode baixar o arquivo do tipo `.zip` do repositório e faça extração
 
-## Objetivo do programa
+## Objetivos do Programa
 
 Este programa foi desenvolvido com os seguintes objetivos:
 
