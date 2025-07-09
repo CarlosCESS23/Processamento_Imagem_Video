@@ -13,8 +13,12 @@ Este projeto utiliza o Python, usando a biblioteca de visão computacional para 
   - [2.Instalação das bibliotecas necessárias](#2-instalação-das-bibliotecas-necessárias)
 - [Clona ou baixar os arquivos](#Clona-ou-baixar-os-arquivos)
 - [Objetivos do Programa](#objetivo-programa)
-- [Funcionalidade do Programa](#fFuncionalidade-do-programa)
-- [Forma de Execução](#forma-execucao)
+- [Funcionalidade do Programa](#funcionalidade-do-programa)
+  -[1.Abrir e processar](#aplicação-de-filtros)
+  -[2.Aplicação de filtros](#aplicação-de-filtros)
+  -[3.Região de interesse (ROI)](#região-de-interesse-roi)
+- [Forma de Execução](#forma-de-execução)
+- [Guia de Orientação](#guia-de-orientação-do-uso)
 - [Referências](#referências)
 
 
