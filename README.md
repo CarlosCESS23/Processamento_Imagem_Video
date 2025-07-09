@@ -9,13 +9,13 @@ Este projeto utiliza o Python, usando a biblioteca de visão computacional para 
 - [Pré-requisito](#pré-requisito)
 - [Estrutura do projeto](#estrutura-do-projeto)
 - [Como Começar](#como-começar)
-  - [1. Instalação de Python](#1-InstalacaoPython)
-  - [2.Instalação das bibliotecas necessárias](#2-bibliotecas_necessárias)
-- [Clone ou baixe os arquivos](#clone-ou-baixe-os-arquivos)
-- [Objetivos do Programa](#objetivo_programa)
-- [Funcionalidade do Programa](#funcionalidade_do_programa)
+  - [1. Instalação de Python](#1-Instalação-de-Python)
+  - [2.Instalação das bibliotecas necessárias](#2-instalação-das-bibliotecas-necessárias)
+- [Clona ou baixar os arquivos](#Clona-ou-baixar-os-arquivos)
+- [Objetivos do Programa](#objetivo-programa)
+- [Funcionalidade do Programa](#fFuncionalidade-do-programa)
 - [Forma de Execução](#forma-execucao)
-- [Referências](#referencias)
+- [Referências](#referências)
 
 
   ## Pré-requisito:
