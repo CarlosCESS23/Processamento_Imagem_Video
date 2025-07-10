@@ -38,7 +38,7 @@ Este projeto utiliza o Python, usando a biblioteca de visão computacional para 
    .
    └── ProcessamentoImagemVideo.py
    └── README.md
-   └── Mídia
+   └── Imagem
           └── <arquivos_imagem>
   
   ```
