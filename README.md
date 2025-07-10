@@ -140,7 +140,7 @@ python processamentoImagemVideo.py
 
 ### Interface Principal
 
-<img src="https://github.com/CarlosCESS23/Processamento_Imagem_Video/blob/main/ImagemAplicativ.png" alt="Interface Gráfica preta">
+<img src="https://github.com/CarlosCESS23/Processamento_Imagem_Video/blob/main/FotoDemostracao/ImagemAplicativ.png" alt="Interface Gráfica preta">
 
 Imagem acima mostra como é a interface criada!!!
 
